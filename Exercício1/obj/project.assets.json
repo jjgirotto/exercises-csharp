@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\1.csproj",
+      "projectUniqueName": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\Exercício1\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\1.csproj",
+      "projectPath": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\Exercício1\\1.csproj",
       "packagesPath": "C:\\Users\\Juliana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\obj\\",
+      "outputPath": "C:\\Users\\Juliana\\Desktop\\ED\\Exercício1\\Exercício1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juliana\\AppData\\Roaming\\NuGet\\NuGet.Config"
