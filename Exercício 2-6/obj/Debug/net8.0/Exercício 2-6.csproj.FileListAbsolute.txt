@@ -1,0 +1,14 @@
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\bin\Debug\net8.0\Exercício 2-6.exe
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\bin\Debug\net8.0\Exercício 2-6.deps.json
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\bin\Debug\net8.0\Exercício 2-6.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\bin\Debug\net8.0\Exercício 2-6.dll
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\bin\Debug\net8.0\Exercício 2-6.pdb
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.dll
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\refint\Exercício 2-6.dll
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.pdb
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\Exercício 2-6.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Exercício 2-6\obj\Debug\net8.0\ref\Exercício 2-6.dll
