@@ -1,0 +1,14 @@
+C:\Users\Juliana\Desktop\ED\Exercício9\bin\Debug\net8.0\Exercício9.exe
+C:\Users\Juliana\Desktop\ED\Exercício9\bin\Debug\net8.0\Exercício9.deps.json
+C:\Users\Juliana\Desktop\ED\Exercício9\bin\Debug\net8.0\Exercício9.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Exercício9\bin\Debug\net8.0\Exercício9.dll
+C:\Users\Juliana\Desktop\ED\Exercício9\bin\Debug\net8.0\Exercício9.pdb
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.dll
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\refint\Exercício9.dll
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.pdb
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\Exercício9.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Exercício9\obj\Debug\net8.0\ref\Exercício9.dll

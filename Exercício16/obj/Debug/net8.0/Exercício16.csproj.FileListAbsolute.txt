@@ -1,0 +1,14 @@
+C:\Users\Juliana\Desktop\ED\Exercício16\bin\Debug\net8.0\Exercício16.exe
+C:\Users\Juliana\Desktop\ED\Exercício16\bin\Debug\net8.0\Exercício16.deps.json
+C:\Users\Juliana\Desktop\ED\Exercício16\bin\Debug\net8.0\Exercício16.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Exercício16\bin\Debug\net8.0\Exercício16.dll
+C:\Users\Juliana\Desktop\ED\Exercício16\bin\Debug\net8.0\Exercício16.pdb
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.dll
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\refint\Exercício16.dll
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.pdb
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\Exercício16.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Exercício16\obj\Debug\net8.0\ref\Exercício16.dll

@@ -77,7 +77,7 @@ void conversao(int n)
     {
         conversao(n/2);      
     }
-    Console.Write(n%2);  
+    Console.Write(n%2);
 }
 
 int op = 1;

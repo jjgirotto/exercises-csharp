@@ -1,0 +1,28 @@
+C:\Users\Juliana\Desktop\ED\Exercício14\bin\Debug\net8.0\Exercício14.exe
+C:\Users\Juliana\Desktop\ED\Exercício14\bin\Debug\net8.0\Exercício14.deps.json
+C:\Users\Juliana\Desktop\ED\Exercício14\bin\Debug\net8.0\Exercício14.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Exercício14\bin\Debug\net8.0\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Exercício14\bin\Debug\net8.0\Exercício14.pdb
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\refint\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.pdb
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\Exercício14.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Exercício14\obj\Debug\net8.0\ref\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\bin\Debug\net8.0\Exercício14.exe
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\bin\Debug\net8.0\Exercício14.deps.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\bin\Debug\net8.0\Exercício14.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\bin\Debug\net8.0\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\bin\Debug\net8.0\Exercício14.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\refint\Exercício14.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\Exercício14.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício14 - Copia\obj\Debug\net8.0\ref\Exercício14.dll
