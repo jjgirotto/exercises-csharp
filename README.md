@@ -43,3 +43,17 @@ e) Consultar o número do primeiro avião da fila
 Construa um menu principal para oferecer essas operações ao usuário.
 
 # Exercício 19:
+Faça uma implementação que construa uma lista encadeada. Seu programa deve inserir vários valores (digitados pelo usuário) na lista e em seguida removê-los. Após remover um elemento da lista, exiba o valor na tela. A forma e a quantidade de valores a serem inseridos e removidos fica a seu critério.
+
+# Exercício 20:
+Faça um programa que utilize lista encadeada e que tenha as opções a seguir. O nó deve conter os atributos: nome, idade, whats e prox.
+a)	Incluir conforme apresentado em aulas
+b)	Para alterar, consulte pelo nome. Se encontrar, exiba os valores atuais e permita a alteração. Caso não encontre, exiba mensagem de não encontrado.
+c)	Para excluir, procure pelo nome. Se encontrar, exiba os valores atuais e permita a exclusão. Caso não encontre, exiba mensagem de não encontrado.
+d)	Na opção exibir, exiba todos os registros.
+
+# Exercício 21:
+Faça um programa para o usuário digitar vários números, inclua-os num vetor. Em seguida, faça uma função recursiva que copie os números do vetor para uma lista encadeada. Após copiar os números do vetor para a lista, percorra a lista para encontrar o menor, o maior e a média dos números. Por fim, exiba o menor, o maior e a média dos números.
+
+# Exercício 23:
+Implemente a lógica de uma lista encadeada com o conceito de fila, ou seja, insira os nós no fim da lista e remova-os do início da lista. Utilize duas variáveis (inicio e fim) para controlar os acessos a lista.
