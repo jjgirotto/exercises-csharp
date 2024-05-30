@@ -1,0 +1,14 @@
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\bin\Debug\net8.0\Exercício23.exe
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\bin\Debug\net8.0\Exercício23.deps.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\bin\Debug\net8.0\Exercício23.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\bin\Debug\net8.0\Exercício23.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\bin\Debug\net8.0\Exercício23.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\refint\Exercício23.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\Exercício23.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício23\obj\Debug\net8.0\ref\Exercício23.dll
