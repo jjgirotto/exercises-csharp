@@ -57,3 +57,13 @@ Faça um programa para o usuário digitar vários números, inclua-os num vetor.
 
 # Exercício 23:
 Implemente a lógica de uma lista encadeada com o conceito de fila, ou seja, insira os nós no fim da lista e remova-os do início da lista. Utilize duas variáveis (inicio e fim) para controlar os acessos a lista.
+
+# Exercício 31:
+Implemente um programa que conte a quantidade de colisões ocorridas durante o processo de inserção. Utilize o tratamento de colisão linear. O vetor deve ser de um tipo abstrato de dado composto por nota, nome e email. A nota deve ser um número inteiro e corresponderá a chave.
+O menu deve conter as seguintes opções: Inserir, Recuperar e Informar. Na opção recuperar, solicite a nota e caso encontre-a no vetor, exiba o nome e o email correspondente, caso contrário, exiba a mensagem de nota não encontrada. A opção informar, informa a quantidade de colisões ocorridas até o momento.
+
+# Exercício 32:
+Implemente um programa com as seguintes opções: Sem tratamento de colisão, Tratamento de colisão Linear e Tratamento de colisão com Lista Encadeada.
+	Dentro de cada opção deve haver as funcionalidades: Inserir, Alterar e Relatar.
+	O vetor deve ser do tipo abstrato de dado composto por idade, nome e whats. Serão necessários 3 vetores, um para cada tipo de tratamento de colisão.
+Para inserir um novo registro, solicite a idade, nome e whats. Utilize a idade como chave.

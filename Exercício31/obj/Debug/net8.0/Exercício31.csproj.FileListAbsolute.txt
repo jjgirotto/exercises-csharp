@@ -1,0 +1,14 @@
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\bin\Debug\net8.0\Exercício31.exe
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\bin\Debug\net8.0\Exercício31.deps.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\bin\Debug\net8.0\Exercício31.runtimeconfig.json
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\bin\Debug\net8.0\Exercício31.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\bin\Debug\net8.0\Exercício31.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\refint\Exercício31.dll
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.pdb
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\Exercício31.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\ED\Lista\Exercício31\obj\Debug\net8.0\ref\Exercício31.dll
